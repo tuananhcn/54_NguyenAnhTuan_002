@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Which of the following statements accurately describes the process of photosynthesis in plants?",
+    "options": "[\"Photosynthesis is the process by which plants use sunlight to synthesize foods with the help of carbon dioxide and water, resulting in the production of oxygen and glucose.\", \"Photosynthesis is the process by which plants break down glucose in the presence of oxygen to produce carbon dioxide, water, and energy.\", \"Photosynthesis occurs in the roots of the plants where nutrients are absorbed and converted into energy.\", \"Photosynthesis is a process in plants that occurs only during the night, using moonlight to produce energy.\"]",
+    "answer": "Photosynthesis is the process by which plants use sunlight to synthesize foods with the help of carbon dioxide and water, resulting in the production of oxygen and glucose."
+  },
+  {
+    "content": "What is the capital of France?",
+    "options": "[\"Paris\", \"London\", \"Berlin\", \"Madrid\"]",
+    "answer": "Paris"
+  },
+  {
+    "content": "What is the capital of Vietnam?",
+    "options": "[\"Hanoi\", \"Cambodia\", \"Beijing\", \"Tokyo\"]",
+    "answer": "Hanoi"
+  },
+  {
+    "content": "What is 2 + 2?",
+    "options": "[\"3\", \"4\", \"5\", \"6\"]",
+    "answer": "4"
+  },
+  {
+    "content": "What is the largest ocean on Earth?",
+    "options": "[\"Atlantic Ocean\", \"Indian Ocean\", \"Arctic Ocean\", \"Pacific Ocean\"]",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "content": "Which planet is known as the Red Planet?",
+    "options": "[\"Mars\", \"Venus\", \"Jupiter\", \"Saturn\"]",
+    "answer": "Mars"
+  }
+]
